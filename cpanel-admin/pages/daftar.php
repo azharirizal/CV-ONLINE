@@ -1,5 +1,5 @@
 <!-- Designed By Muhamad Rizal Azhari -->
-<!-- https://muhamadrizalazhari.000webhostapp.com/ -->
+<!-- https://bit.ly/2vBKb8Y -->
 
 <!DOCTYPE html>
 <html>
@@ -63,7 +63,7 @@
     </form>
     <hr>
 
-    <center><h5 class="form-signin">Copyright &copy; 2019 <a href="https://muhamadrizalazhari.000webhostapp.com/" target="_blank">Rizal Azhari</a></h5></center> 
+    <center><h5 class="form-signin">Copyright &copy; 2019 <a href="https://bit.ly/2vBKb8Y" target="_blank">Rizal Azhari</a></h5></center> 
 
   </div>
   <!-- /.login-box-body -->
