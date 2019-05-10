@@ -1,6 +1,3 @@
-<!-- Designed By Muhamad Rizal Azhari -->
-<!-- https://muhamadrizalazhari.000webhostapp.com/ -->
-
 <?php
 session_start();
 include "conf/conn.php";
@@ -10,6 +7,10 @@ echo '<script>alert("Anda Harus Login Terlebih Dahulu !!!");
 }else{
 
 ?>
+
+<!-- Designed By Muhamad Rizal Azhari -->
+<!-- https://bit.ly/2vBKb8Y -->
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -212,7 +213,7 @@ echo '<script>alert("Anda Harus Login Terlebih Dahulu !!!");
     <div class="pull-right hidden-xs">
       <b>Version</b> 2.3.7
     </div>
-    <strong>Copyright &copy; 2019 <a href="https://muhamadrizalazhari.000webhostapp.com/" target="_blank">Rizal Azhari</a>.</strong> All rights
+    <strong>Copyright &copy; 2019 <a href="https://bit.ly/2vBKb8Y" target="_blank">Rizal Azhari</a>.</strong> All rights
     reserved.
   </footer>
 
