@@ -1,5 +1,5 @@
 <!-- Designed By Muhamad Rizal Azhari -->
-<!-- https://muhamadrizalazhari.000webhostapp.com/ -->
+<!-- https://bit.ly/2vBKb8Y -->
 
 <?php
 include "conf/conn.php";
@@ -266,7 +266,7 @@ $row = mysql_fetch_array($mysqlquery);
 	<footer>
 		<p class="copyright">
 			<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Rizal Azhari. All rights reserved | This template is made with <i class="ion-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="https://bit.ly/2vBKb8Y" target="_blank">Rizal Azhari</a>. All rights reserved | This template is made with <i class="ion-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 		</p>
 
